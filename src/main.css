@@ -1,0 +1,9 @@
+.login-main button{
+    border-radius: 20px;
+    height:50px;
+    width:150px
+}
+.login-field{
+    height:25px;
+    margin-bottom: 10px;
+}
